@@ -14,3 +14,19 @@ All you need is a listings.csv file which you can find here http://insideairbnb.
 
 Who maintains and contributes to the project  <br />
 For now there is no maintainance of code.
+
+Overview of files: <br />
+- blogpost -> Text for users to understand the idea rather than the actual code.
+- jupyter notebook -> Code to recreate the housing recommendation
+
+Libs used: <br />
+- Pandas which offers data structures and operations for manipulating numerical tables and time series <br />
+- Numpy adding support for large, multi-dimensional arrays and matrices <br />
+- Math provides access to the mathematical functions defined by the C standard. <br />
+
+Key result:
+Due to restrictions that apply for my personal case (availability, price and room type of housing), the potential housings in NYC list decreased by 76% from 36905 to 8870.
+Respecting my restrictions and also my personal preference to have a housing located near my work, I found a great place just 200m from work and for only 95 USD per night!
+
+Big thanks to airbnb providing the needed dataset.
+Airbnb Open Data: http://insideairbnb.com/get-the-data.html 
