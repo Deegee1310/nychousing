@@ -1,6 +1,6 @@
 Blogpost: 
 
-How to find a suitable apartment for you in airbnb based on your own preferences
+<h1> How to find a suitable apartment for you in airbnb based on your own preferences</h1>
 
 I used the NYC Airbnb Dataset for this blog post. You can find the web address of the dataset in References section below. As part of the Airbnb Inside initiative, the dataset describes the listing activity of homestays in NYC.
 
